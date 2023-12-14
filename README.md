@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Logomarca](./logotipo.png)
+![Logomarca](./logomarca.png)
 
 Evolução do projeto  prático do conteúdo ensinado pela **Recode Pro** 
 </div>
